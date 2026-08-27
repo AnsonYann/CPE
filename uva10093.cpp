@@ -1,5 +1,7 @@
 // UVa 10093 - An Easy Problem!
-#include <stdio.h>
+#include <bits/stdc++.h>
+
+using namespace std;
 
 int main() {
     char s[10001];       // 宣告字元陣列，用來讀取可能長達 10000 個字元的大數字
